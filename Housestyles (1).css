@@ -1,0 +1,426 @@
+#house{position:relative;height:400px;
+width:500px;
+background-color:navy;
+border:6px solid burlywood ;
+margin-top:90px;
+z-index: 1;
+}
+
+#chimney{position:absolute;
+width:80px;
+height:60px;
+border:3px solid black;
+background-color:grey;
+top:-63px;
+left:338px;
+z-index: 0;
+}
+
+ .chimney-line-1{position:absolute;
+  width:80px;
+height:3px;
+background-color:black;
+top:15px;}
+
+.chimney-line-2{position:absolute;
+width:80px;
+height:3px;
+background-color:black;
+top:32px;}
+
+.chimney-line-3{position:absolute;
+width:80px;
+height:3px;
+background-color:black;
+top:48px;}
+
+#roof{ position :absolute;
+top:0;
+left:-6px;
+width:500px;
+height:90px;
+border:6px solid burlywood;
+background-color:pink;}
+
+.roof-line1{position:absolute;
+top:-3px;
+  width:6px;
+height:40px;
+background-color:burlywood;
+transform:rotate(16deg);
+}
+
+.roof-line2{position:absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+transform:rotate(16deg);
+left:15px;}
+
+.roof-line3{position:absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:50px;
+transform:rotate(16deg);}
+
+.roof-line4{position:absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:75px;
+transform:rotate(16deg);}
+
+.roof-line5{position:absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:100px;
+transform:rotate(16deg);}
+
+.roof-line6{position:absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:125px;
+transform:rotate(16deg);}
+
+.roof-line7{position:absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:150px;
+transform:rotate(16deg);}
+
+.roof-line8{position:absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:175px;
+transform:rotate(16deg);}
+
+.roof-line9{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:200px;
+transform:rotate(16deg);}
+
+.roof-line10{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:225px;
+transform:rotate(16deg);}
+
+.roof-line11{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:250px;
+transform:rotate(16deg);}
+
+.roof-line12{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:275px;
+transform:rotate(16deg);}
+
+.roof-line13{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:300px;
+transform:rotate(16deg);}
+
+.roof-line14{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:325px;
+transform:rotate(16deg);}
+
+.roof-line15{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:350px;
+transform:rotate(16deg);}
+
+.roof-line16{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:375px;
+transform:rotate(16deg);}
+
+.roof-line17{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:400px;
+transform:rotate(16deg);}
+
+.roof-line18{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:425px;
+transform:rotate(16deg);}
+
+.roof-line19{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:450px;
+transform:rotate(16deg);}
+
+.roof-line20{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:475px;
+transform:rotate(16deg);}
+
+.roof-line21{position: absolute;
+width:6px;
+height:57px;
+background-color:burlywood;
+top:36px;
+left:493px;
+transform:rotate(16deg);}
+
+.roof-line22{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:10px;
+transform:rotate(-16deg);}
+
+.roof-line23{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:35px;
+transform:rotate(-16deg);}
+
+.roof-line24{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:60px;
+transform:rotate(-16deg);}
+
+.roof-line25{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:85px;
+transform:rotate(-16deg);}
+
+.roof-line26{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:100px;
+transform:rotate(-16deg);}
+
+.roof-line27{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:125px;
+transform:rotate(-16deg);}
+
+.roof-line28{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:150px;
+transform:rotate(-16deg);}
+
+.roof-line29{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:175px;
+transform:rotate(-16deg);}
+
+.roof-line30{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:200px;
+transform:rotate(-16deg);}
+
+.roof-line31{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:225px;
+transform:rotate(-16deg);}
+
+.roof-line32{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:250px;
+transform:rotate(-16deg);}
+
+.roof-line33{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:275px;
+transform:rotate(-16deg);}
+
+.roof-line34{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:300px;
+transform:rotate(-16deg);}
+
+.roof-line35{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:325px;
+transform:rotate(-16deg);}
+
+.roof-line36{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:350px;
+transform:rotate(-16deg);}
+
+.roof-line37{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:375px;
+transform:rotate(-16deg);}
+
+.roof-line38{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:400px;
+transform:rotate(-16deg);}
+
+.roof-line39{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:425px;
+transform:rotate(-16deg);}
+
+.roof-line40{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:450px;
+transform:rotate(-16deg);}
+
+.roof-line41{position: absolute;
+width:6px;
+height:100px;
+background-color:burlywood;
+top:-3px;
+left:475px;
+transform:rotate(-16deg);}
+
+.roof-line42{position: absolute;
+width:6px;
+height:57px;
+background-color:burlywood;
+top:-3px;
+left:486px;
+transform:rotate(-16deg);}
+
+#window-1{position:absolute;
+width:90px;
+height:80px;
+border:8px solid burlywood ;
+background-color:pink;
+top:140px;
+left:25px;}
+
+.window-line1{position:absolute;
+width:8px;
+height:80px;
+background-color:burlywood;
+
+left:40px;
+}
+
+#window-2{position:absolute;
+width:90px;
+height:80px;
+border:8px solid burlywood ;
+background-color:pink;
+top:140px;
+left:365px;}
+
+.window-line2{position:absolute;
+width:8px;
+height:80px;
+background-color:burlywood;
+left:41px;}
+
+#door{position:absolute;
+width:110px;
+height:160px;
+border:5px solid burlywood ;
+background-color:brown;
+bottom:0;
+left:190px;}
+
+.door-knob{position:absolute;
+width:15px;
+height:15px;
+border:2px solid burlywood :
+border-radius:50%;
+top:78px;
+left:92px;
+background-color: burlywood ;}
